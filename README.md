@@ -39,7 +39,7 @@ Loan-Eligibility-Predictor/
 Installation:
 
 Clone the repository
-git clone https://github.com/yourusername/Loan-Eligibility-Predictor.git
+git clone https://github.com/Paulrex1404/Loan-Eligibility-Predictor.git
 Navigate to the project folder
 cd Loan-Eligibility-Predictor
 Install the required packages
