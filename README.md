@@ -1,4 +1,4 @@
-Loan Eligibility Predictor
+Loan Eligibility Predictor:
 
 Overview:
 
